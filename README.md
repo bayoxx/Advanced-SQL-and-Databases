@@ -9,4 +9,6 @@ In this project, I tackled various business questions using the AdventureWorks 2
 **Activity Status**: Enhanced customer data with activity status, distinguishing between active and inactive customers over the past year.
 **Regional Sales Reporting**: Analyzed monthly sales numbers across countries and regions, enriched with cumulative totals, sales rankings, and tax rate calculations to provide a holistic view of sales performance.
 
+The spreadsheet link for the query and result extracted using SQL on BigQuery is [here](https://docs.google.com/spreadsheets/d/1LXxD4bZwf6im9ukYTUWMMhBWqkKqkaWg_FzviUt-6bo/edit?gid=0#gid=0)
+
 *This exercise not only reinforced my SQL skills but also demonstrated my ability to translate complex business requirements into precise and efficient queries, ultimately driving data-driven decision-making.*
