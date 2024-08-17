@@ -14,4 +14,6 @@ In this project, I tackled various business questions using the AdventureWorks 2
 
 The spreadsheet link for the queries and results extracted on BigQuery is [here](https://docs.google.com/spreadsheets/d/1LXxD4bZwf6im9ukYTUWMMhBWqkKqkaWg_FzviUt-6bo/edit?gid=0#gid=0)
 
+Note: *I have also attached the .sql file to this repository*. You can also check the SQL Query [here](https://github.com/bayoxx/Advanced-SQL-and-Databases/blob/main/Adavanced%20SQL.sql)
+
 *This exercise not only reinforced my SQL skills but also demonstrated my ability to translate complex business requirements into precise and efficient queries, ultimately driving data-driven decision-making.*
